@@ -86,7 +86,7 @@ Even the greatest project needs a tiny bit of order. The following will be consi
 - 侵权文件
 - 无意义地大量删除他人贡献
 
-## 如何为全世界最伟大的仓库做贡献
+## 如何做贡献
 
 1. Fork 它。
 2. 添加或修改任何东西。
