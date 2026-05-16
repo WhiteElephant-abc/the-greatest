@@ -96,7 +96,7 @@ Even the greatest project needs a tiny bit of order. The following will be consi
 
 ## 安全须知
 
-- GitHub Actions 已被我禁用。这里里没有任何代码会自动执行。
+- GitHub Actions 已被我禁用。这里没有任何代码会自动执行。
 - 不要下载并运行一个网上陌生人塞进来的东西。
 - 如果你发现了恶意内容，请开个 Issue。
 
